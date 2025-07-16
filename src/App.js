@@ -3,7 +3,7 @@ import React, { useState, useRef, useEffect } from "react";
 // Replace with your actual API keys
 const ASSEMBLY_AI_API_KEY = "763ddc1189bc46efb771469822930c7f";
 const OPENROUTER_API_KEY =
-  "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";
+  "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";
 const OPENROUTER_MODEL = "mistralai/mistral-7b-instruct";
 
 const VoiceAgent = () => {
